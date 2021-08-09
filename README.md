@@ -6,7 +6,7 @@ Esse projeto feito desenvolvido para a matéria de programação I.
 
 * **Davi M.** - *Desenvolvedor* - [Davi-M0ta](https://github.com/Davi-M0ta)
 * **Diego B.** - *Desenvolvedor* - [Dbreskovit](https://youtu.be/dQw4w9WgXcQ)
-* **Igor R.** - *Desenvolvedor* - [*](#)
+* **Igor R.** - *Desenvolvedor* - [Higoorr](https://github.com/Higoorr)
 
 ---
 ⌨️ com ❤️ por [Diego Breskovit](https://github.com/dbreskovit) 😜
