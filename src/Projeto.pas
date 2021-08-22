@@ -991,7 +991,7 @@ BEGIN
  WriteLN('              `.       ,   _,"                        ');
  WriteLN('                `-.___.---"                           ');
  WriteLN('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=');
- writeln('                     SHEREK                          ');
+ writeln('                     SHREK                           ');
  writeln('                     NOTA:',G_PONTOS);Readkey;
 
   repeat
