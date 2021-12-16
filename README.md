@@ -1,12 +1,15 @@
 # The Quiz
 
-Esse projeto feito desenvolvido para a matéria de programação I.
+This project was developed for the programming class in the 1st year of high school. Using the Pascal programming language.
 
-## ✒️ Autores
+## ✒️ Developers
 
-* **Davi M.** - *Desenvolvedor* - [Davi-M0ta](https://github.com/Davi-M0ta)
-* **Diego B.** - *Desenvolvedor* - [Dbreskovit](https://youtu.be/dQw4w9WgXcQ)
-* **Igor R.** - *Desenvolvedor* - [Higoorr](https://github.com/Higoorr)
+**[Davi da Mota](https://github.com/Davi-M0ta)**
+
+**[Diego Breskovit](https://youtu.be/dQw4w9WgXcQ)**
+
+**[Igor Rambos](https://github.com/Higoorr)**
 
 ---
-⌨️ com ❤️ por [Diego Breskovit](https://github.com/dbreskovit) 😜
+
+⌨️ with ❤️ by [Diego Breskovit](https://github.com/dbreskovit) 👨‍💻
