@@ -27,7 +27,7 @@
 
 ## 🧪 Technologies
 
-- <img src=".github/resources/pascal.svg" width="15"> | [Pascal](https://www.freepascal.org/)
+- <img src=".github/resources/icons/pascal.svg" width="15"> | [Pascal](https://www.freepascal.org/)
 
 ## 🚀 Getting started
 
