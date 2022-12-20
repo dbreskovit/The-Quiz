@@ -25,11 +25,11 @@
 
 <br />
 
-# 🧪 Technologies
+## 🧪 Technologies
 
 - [Pascal](https://www.freepascal.org/)
 
-# 🚀 Getting started
+## 🚀 Getting started
 
 Clone the project and access the folder.
 
@@ -38,7 +38,7 @@ $ git clone https://github.com/dbreskovit/The-Quiz
 $ cd The-Quiz
 ```
 
-# 🦄 Authors
+## 🦄 Authors
 
 <table>
   <tr>
