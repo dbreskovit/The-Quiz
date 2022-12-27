@@ -44,7 +44,7 @@ $ cd The-Quiz
   <tr>
     <td align="center">
       <a href="https://github.com/dbreskovit" style="text-decoration: none;color: #9644CD;">
-              <img src="https://unavatar.now.sh/github/dbreskovit" width="100px"/>
+              <img src="https://avatars.githubusercontent.com/dbreskovit" width="100px"/>
             <br>
         <sub>
           <b>Diego</b>
@@ -53,7 +53,7 @@ $ cd The-Quiz
     </td>
     <td align="center">
       <a href="https://github.com/Davi-M0ta" style="text-decoration: none;color: #9644CD;">
-              <img src="https://unavatar.now.sh/github/Davi-M0ta" width="100px"/>
+              <img src="https://avatars.githubusercontent.com/Davi-M0ta" width="100px"/>
             <br>
         <sub>
           <b>Davi</b>
@@ -62,7 +62,7 @@ $ cd The-Quiz
     </td>
     <td align="center">
       <a href="https://github.com/Higoorr" style="text-decoration: none;color: #9644CD;">
-              <img src="https://unavatar.now.sh/github/Higoorr" width="100px"/>
+              <img src="https://avatars.githubusercontent.com/Higoorr" width="100px"/>
             <br>
         <sub>
           <b>Igor</b>
